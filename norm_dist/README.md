@@ -1,6 +1,4 @@
-## About `Simulate Distributions`
-
-# Need to include a figure (app look)
+## About `Simulate Normal Distribution`
 
 This interactive application allows you to explore the behaviour of [normal distribution](https://en.wikipedia.org/wiki/Normal_distribution) with different __sample size__, __population mean__ and __population satandard deviation__. Change one of the parameters to see what happens.
 
@@ -16,10 +14,10 @@ install.packages(ggplot2)
 
 To run this application localy, simple paste the following code on `R` console: 
 ```{r} 
- shiny::runGitHub("shiny-norm-dist", "paternogbc")
+shiny::runGitHub("shiny-apps", "paternogbc", subdir = "norm_dist")
 ```
 
-![](http://i.imgur.com/d6i4LGy.png) ### updte to the correct figure
+![](https://raw.githubusercontent.com/paternogbc/shiny-apps/master/norm_dist/img/app.png) ### updte to the correct figure
 
 
 ## Want to help?
