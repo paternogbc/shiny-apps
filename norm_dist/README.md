@@ -17,8 +17,7 @@ To run this application localy, simple paste the following code on `R` console:
 shiny::runGitHub("shiny-apps", "paternogbc", subdir = "norm_dist")
 ```
 
-![](https://raw.githubusercontent.com/paternogbc/shiny-apps/master/norm_dist/img/app.png) ### updte to the correct figure
-
+![](https://raw.githubusercontent.com/paternogbc/shiny-apps/master/norm_dist/img/app.png) 
 
 ## Want to help?
 If you find any problem, bug or typo or if you want to contribute with code, please report [here](https://github.com/paternogbc/shiny-apps/issues/new).
