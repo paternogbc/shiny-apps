@@ -21,8 +21,7 @@ shiny::runGitHub("shiny-apps", "paternogbc", subdir = "norm_dist")
 
 
 ## Want to help?
-Fork this repo and create a pull request. Please, report bugs [here](https://github.com/paternogbc/shiny-norm-dist/issues).
-
+If you find any problem, bug or typo or if you want to contribute with code, please report [here](https://github.com/paternogbc/shiny-apps/issues/new).
 
 ## License
 This software is Open Source and is under the public license [GPL-3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
